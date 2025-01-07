@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Deeksha1118/Server#readme",
   "dependencies": {
+    "express": "^4.21.2",
     "nodemon": "^3.1.9"
   }
 }
